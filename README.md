@@ -73,5 +73,6 @@ Basta executar o menu localizado na classe `Main.java`. A partir do menu, é pos
 Gostei muito de assistir à apresentação que Steve Jobs fez do primeiro iPhone, e fiquei impressionado com o produto e o marketing feito, mesmo 20 anos depois. Quase quis comprar o produto. Após ter feito alguns projetos com Java, já estou me acostumando com a sintaxe e o paradigma de POO para implementar soluções, estou amando esse aprendizado.
 
 ---
+### Contribuições
 
-Se quiser modificar ou acrescentar algo, é só avisar!
+Aprecio muito qualquer feedback ou sugestão. Se você quiser modificar ou acrescentar algo, é só fazer um Pull Request!
